@@ -1,1 +1,3 @@
-# ITU-SYST-F2018-Lecture_9
+# ITU-SYST-F2018
+
+Eksempler til React.
